@@ -1,0 +1,13 @@
+---
+  metaData: 
+    author: "d3fkon"
+    git-repo: "https://github.com/d3fkon/yeeeet"
+    approval: 
+      approved-by: "d3fkon"
+      approval-date: 1564071084716
+  job: 
+    job-name: "d3fkonxyeeeet"
+    config: 
+      pre-unit-test: "yes"
+      post-unit-test: "no"
+      dev: "no"
